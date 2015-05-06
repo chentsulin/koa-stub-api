@@ -1,0 +1,32 @@
+{
+  "name": "koa-stub-api",
+  "version": "0.1.0",
+  "description": "koa-stub-api",
+  "license": "MIT",
+  "repository": "chentsulin/koa-stub-api",
+  "author": {
+    "name": "C. T. Lin",
+    "email": "chentsulin@gmail.com",
+    "url": "https://github.com/chentsulin"
+  },
+  "engines": {
+    "node": ">= 0.12.0",
+    "iojs": ">= 1.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "bugs": {
+    "url": "https://github.com/chentsulin/koa-stub-api/issues"
+  },
+  "homepage": "https://github.com/chentsulin/koa-stub-api",
+  "keywords": [
+
+  ],
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
